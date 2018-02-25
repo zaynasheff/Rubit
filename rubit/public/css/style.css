@@ -357,3 +357,86 @@ input[type=range]:focus::-ms-fill-upper {
 .frgt-pass:hover{
     color: #5e7b8b;
 }
+#cab{
+    padding: 15px;
+}
+.video{
+    margin-top: 30px;
+}
+.adventages ul li{
+    margin-bottom:20px;
+}
+.adventages ul{
+    margin-top: 30px;
+}
+.favorably{
+    padding: 30px;
+    background-color: #e5e5e5;
+    overflow: hidden;
+}
+.favorablyItem{
+    width: 45%;
+    height: 250px;
+    float: left;
+}
+.favorablyItem img{
+    max-width: 100px;
+    height: auto;
+}
+.favorably h2{
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.favorablyItem h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.people{
+    overflow: hidden;
+    margin-top: 30px;
+}
+.quoteText{
+    background-color: #009688;
+    padding: 15px;
+    color:#fff;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+.quoteAuthor img{
+    border-radius: 50%;
+    float: left;
+    overflow: hidden;
+    margin-right: 10px;
+}
+.quoteAuthor h4{
+    color: #009688;
+    font-weight: bold;
+}
+.quoteAuthor h4 span{
+    color: #636b6f;
+    font-size: 14px;
+    font-weight: normal;
+}
+.footer{
+    background-color: #5f7c8b;
+    padding: 15px;
+}
+.footerNav{
+    color:#fff;
+}
+.footerNav li a{
+    color:#fff;
+    font-size:16px;
+}
+.socials a{
+    color:#fff;
+    font-size: 16px;
+}
+.footerAbout{
+    color: #ddd;
+}
+.footerAbout h2{
+    margin-top: 0;
+}
